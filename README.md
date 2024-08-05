@@ -1,16 +1,34 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hi there, I'm Hassan! 👋
 
-###
+🚀 **Full-Stack Developer** from Pakistan  
+🐛 Creating bugs since 2021
 
-<p align="left">My name is Hassan and I'm a full-stack developer from Pakistan</p>
+## 🌟 About Me
 
-###
+- 📚 **Currently Learning:** Supabase
+- 🎯 **Goals:** Build and launch my own SaaS app
+- 🎲 **Fun Fact:** Sometimes, patches work like magic!
 
-<h2 align="left">About me</h2>
+## 🛠️ My Toolkit
 
-###
+- **Languages & Frameworks:** JavaScript, React, Node.js
+- **Databases:** MongoDB, PostgreSQL
+- **Tools & Platforms:** Git, Docker, Tailwind CSS
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning supabase<br>🎯 Goals: have my own saas app<br>🎲 Fun fact: patches work great sometimes</p>
+## 🧠 Learning Journey
+
+I’m always on the lookout for new technologies and frameworks to experiment with. Right now, I’m diving deep into Supabase and exploring its potential to supercharge my projects.
+
+## 🌍 Connect with Me
+
+- **LinkedIn:** [Hassan's LinkedIn](https://linkedin.com/in/hassan-rasool-siddiqui)
+
+## 🌱 Fun Fact
+
+When it comes to coding, sometimes patches work great and can save the day!
+
+Thanks for stopping by! Feel free to reach out if you want to collaborate or just chat about tech.
+
 
 ###
 
