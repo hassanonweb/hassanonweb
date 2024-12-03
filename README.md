@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Hassan and I'm a full-stack developer from Pakistan</h1>
+<h1 align="left" style="border-bottom: none;">Hi 👋! My name is Hassan and I'm a full-stack developer from Pakistan</h1>
 
 
 
