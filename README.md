@@ -1,4 +1,4 @@
-**Hi 👋! My name is Hassan and I'm a full-stack developer from Pakistan**
+### **Hi 👋! My name is Hassan and I'm a full-stack developer from Pakistan**
 
 
  ## 💻 Tech Stack:
@@ -21,7 +21,7 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=hassanonweb&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 
 <div align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
