@@ -1,7 +1,5 @@
-<div align="center">
-  <img src="./github.svg" alt="Banner"/>
-</div>
-
+# ⓘ About me:
+My name is Hassan, and I am a full-stack developer from Pakistan 🇵🇰
 
  ## 💻 Tech Stack:
 
