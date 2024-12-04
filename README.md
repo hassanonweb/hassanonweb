@@ -1,5 +1,5 @@
 # ⓘ About me:
-My name is Hassan, and I am a full-stack developer from Pakistan 🇵🇰
+**My name is Hassan, and I am a full-stack developer from Pakistan 🇵🇰**
 
  ## 💻 Tech Stack:
 
